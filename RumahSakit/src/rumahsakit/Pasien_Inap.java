@@ -53,6 +53,6 @@ public class Pasien_Inap {
 	}
 
     public String getDiagnosa(int n){
-	return diagnosa[n];
+	return Diagnosa[n];
     }
 }
