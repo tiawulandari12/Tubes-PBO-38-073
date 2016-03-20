@@ -13,7 +13,7 @@ public class Pasien_Inap {
     private Pasien pasien;
     private Dokter dokter;
     private String tglMasuk;
-    private String Diagnosa[10];
+    private String Diagnosa[] = new Diagnosa[10];
     private int Jumlah_diagnosa = 0;
     private int kelas;
 	
